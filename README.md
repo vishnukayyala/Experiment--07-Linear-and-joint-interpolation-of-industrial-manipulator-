@@ -1,4 +1,4 @@
-# Experiment--08-Linear-and-joint-interpolation-of-industrial-manipulator-
+# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
