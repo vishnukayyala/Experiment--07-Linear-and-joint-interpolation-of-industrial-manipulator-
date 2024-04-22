@@ -77,4 +77,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
-
+the program for leniaer and joint interpolation of industrial manipulatoris developed succesfully
