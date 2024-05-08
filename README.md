@@ -1,4 +1,7 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+## NAME: vishnu km
+## REG NO: 212223240185
+## DEPARTMENT: AI/ML
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
